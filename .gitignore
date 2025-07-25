@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files from the Streamlit app
+temp/
+
+# Large datasets - VERY IMPORTANT
+# We will explain how to handle this in the README
+data/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE and OS specific files
+.idea/
+.vscode/
+.DS_Store"best_capuchin_model.keras" 
