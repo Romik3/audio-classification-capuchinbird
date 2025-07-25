@@ -31,8 +31,9 @@ A comprehensive, end-to-end machine learning project to detect the calls of the 
 
 ### 1. Run the Web App with Docker (Recommended)
 
-This is the simplest way to get the project running. Ensure you have Docker installed and running on your machine.
+**Prerequisite:** Before running the app, you must first have the trained model file. Run the `AudioClassification.ipynb` notebook to train the model and generate the `best_capuchin_model.keras` file in the root directory.
 
+Once the model file exists, you can build and run the app.
 ```bash
 # 1. Clone this repository
 git clone [YOUR GITHUB REPOSITORY URL]
